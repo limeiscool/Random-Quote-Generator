@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Palette 1",
+    "background": "#B0A1BA",
+    "outerCard": "#A5B5BF",
+    "button": "#B8E2C8",
+    "buttonTextColor": "#000000"
+  },
+  {
+    "name": "Palette 2",
+    "background": "#070707",
+    "outerCard": "#553555",
+    "button": "#553555",
+    "buttonTextColor": "#FFFFFF"
+  },
+  {
+    "name": "Palette 3",
+    "background": "#BCC4DB",
+    "outerCard": "#6987C9",
+    "button": "#BCC4DB",
+    "buttonTextColor": "#000000"
+  },
+  {
+    "name": "Palette 4",
+    "background": "#454ADE",
+    "outerCard": "#C874D9",
+    "button": "#1B1F3B",
+    "buttonTextColor": "#FFFFFF"
+  },
+  {
+    "name": "Palette 5",
+    "background": "#7BDFF2",
+    "outerCard": "#F7D6E0",
+    "button": "#B2F7EF",
+    "buttonTextColor": "#000000"
+  },
+  {
+    "name": "Palette 6",
+    "background": "#E09F7D",
+    "outerCard": "#A01A7D",
+    "button": "#EF5D60",
+    "buttonTextColor": "#FFFFFF"
+  },
+  {
+    "name": "Palette 7",
+    "background": "#565656",
+    "outerCard": "#81523F",
+    "button": "#B2FFA9",
+    "buttonTextColor": "#000000"
+  },
+  {
+    "name": "Palette 8",
+    "background": "#BEE9E8",
+    "outerCard": "#CAE9FF",
+    "button": "#62B6CB",
+    "buttonTextColor": "#FFFFFF"
+  },
+  {
+    "name": "Palette 9",
+    "background": "#BFBDC1",
+    "outerCard": "#DEB841",
+    "button": "#6D6A75",
+    "buttonTextColor": "#FFFFFF"
+  },
+  {
+    "name": "Palette 10",
+    "background": "#DDD8B8",
+    "outerCard": "#6A66A3",
+    "button": "#B3CBB9",
+    "buttonTextColor": "#000000"
+  },
+  {
+    "name": "Palette 11",
+    "background": "#B1740F",
+    "outerCard": "#296EB4",
+    "button": "#FFD07B",
+    "buttonTextColor": "#000000"
+  },
+  {
+    "name": "Palette 12",
+    "background": "#9F84BD",
+    "outerCard": "#EDE3E9",
+    "button": "#C09BD8",
+    "buttonTextColor": "#000000"
+  },
+  {
+    "name": "Palette 13",
+    "background": "#071013",
+    "outerCard": "#A2AEBB",
+    "button": "#23B5D3",
+    "buttonTextColor": "#FFFFFF"
+  },
+  {
+    "name": "Palette 14",
+    "background": "#D68FD6",
+    "outerCard": "#000009",
+    "button": "#DEFFF2",
+    "buttonTextColor": "#000000"
+  },
+  {
+    "name": "Palette 15",
+    "background": "#1F2041",
+    "outerCard": "#119DA4",
+    "button": "#4B3F72",
+    "buttonTextColor": "#FFFFFF"
+  }
+]
